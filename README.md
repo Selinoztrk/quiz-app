@@ -6,14 +6,14 @@ This is a beginner-friendly **Quiz Application** developed using **HTML**, **CSS
 
 ## Features 🚀
 
-✅ **4 Questions Quiz**
-✅ **Start Quiz Button** to begin the quiz
-✅ **Countdown Timer** that starts from **10 seconds** for each question
-✅ **Answer Stops Timer** – when an answer is selected, the timer and its animation pause
-✅ **Progress Indicator** showing current question number (e.g., **1/4**)
-✅ **Smooth Animations** – button shrink animation when moving to the next question
-✅ **Animated Time Line** – a visual line animation that runs for **550ms** and pauses when an answer is chosen
-✅ **Responsive Design** with **Bootstrap**
+* ✅ **4 Questions Quiz**
+* ✅ **Start Quiz Button** to begin the quiz
+* ✅ **Countdown Timer** that starts from **10 seconds** for each question
+* ✅ **Answer Stops Timer** – when an answer is selected, the timer and its animation pause
+* ✅ **Progress Indicator** showing current question number (e.g., **1/4**)
+* ✅ **Smooth Animations** – button shrink animation when moving to the next question
+* ✅ **Animated Time Line** – a visual line animation that runs for **550ms** and pauses when an answer is chosen
+* ✅ **Responsive Design** with **Bootstrap**
 
 ---
 
@@ -62,7 +62,7 @@ No backend setup required — completely frontend-based!
 
 ## Project Status 📌
 
-✅ Completed – Basic features implemented and working smoothly.
-✅ Beginner-friendly – great practice for learning DOM, timers, and simple animations.
+* ✅ Completed – Basic features implemented and working smoothly.
+* ✅ Beginner-friendly – great practice for learning DOM, timers, and simple animations.
 
 ---
